@@ -1,0 +1,14 @@
+geopandas
+
+pandas - data analysis
+shapely - geometric shapes
+ - GEOS
+fiona - reading and writting
+ - OGR
+pyproj - cartographic projections
+ - PROJ4
+descartes - mapping
+geopy - geocoding
+rtree - spatial analysis
+pysal - coloring maps
+numpy - math

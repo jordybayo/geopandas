@@ -1,0 +1,18 @@
+* Installer geopandas
+
+sudo apt install gdal-bin
+sudo apt-get install libgdal-dev
+sudo apt-get install -y libgeos-dev
+sudo apt-get install -y libspatialindex-dev
+
+
+pip3 install pillow
+pip3 install pysal
+pip3 install geopandas
+pip3 install matplotlib
+pip3 install Rtree
+
+pip3 install jupyter
+
+pip install mpl-toolkits.clifford
+pip install https://github.com/matplotlib/basemap/archive/master.zip
